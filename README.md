@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# This is the in-class test of Github
 
-DO NOT LEAVE IT LIKE THIS!!!
+Just for the class!
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+This is JUST FOR THE CLASS!!!
